@@ -1,0 +1,9 @@
+teste,parceiro,grupo,dias,compradores_total,vendas_totais,comissao_total,cashback_total,lucro_bruto_total,lucro_bruto_medio_dia,margem_sobre_gmv_media,cashback_rate_medio,lucro_por_comprador,probabilidade_ser_melhor
+Teste Cashback Parceiro A,Parceiro A,Grupo 1,92,9633,5605173.0,638135.0,233424.0,404711.0,4399.03,0.0711,0.0408,42.01,0.9398
+Teste Cashback Parceiro A,Parceiro A,Grupo 2,92,10814,6423096.0,728178.0,370659.0,357519.0,3886.08,0.056,0.0559,33.06,0.0602
+Teste Cashback Parceiro A,Parceiro A,Grupo 3,92,11410,6785856.0,767887.0,503600.0,264287.0,2872.68,0.044,0.0679,23.16,0.0
+Teste Cashback Parceiro B,Parceiro B,Grupo 1,61,7990,4093818.0,450321.0,163751.0,286570.0,4697.87,0.07,0.04,35.87,1.0
+Teste Cashback Parceiro B,Parceiro B,Grupo 2,61,5452,2863019.0,314935.0,171778.0,143157.0,2346.84,0.05,0.06,26.26,0.0
+Teste Cashback Parceiro B,Parceiro B,Grupo 3,61,5029,2629963.0,289290.0,236697.0,52593.0,862.18,0.02,0.09,10.46,0.0
+Teste Cashback Parceiro C,Parceiro C,Grupo 1,45,4549,1738460.0,121693.0,86924.0,34769.0,772.64,0.02,0.05,7.64,1.0
+Teste Cashback Parceiro C,Parceiro C,Grupo 2,45,4522,1685235.0,117967.0,117967.0,0.0,0.0,0.0,0.07,0.0,0.0

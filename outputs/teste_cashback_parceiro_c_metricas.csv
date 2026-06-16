@@ -1,0 +1,3 @@
+Parceiro,Grupos de usuários,dias,compradores_total,compradores_media_dia,comissao_total,cashback_total,vendas_totais,lucro_bruto_total,lucro_bruto_medio_dia,lucro_bruto_std_dia,margem_sobre_gmv_media,cashback_rate_medio,comissao_rate_medio,ticket_medio,lucro_por_comprador,probabilidade_ser_melhor,ic95_lucro_medio_dia_min,ic95_lucro_medio_dia_max
+Parceiro C,Grupo 1,45,4549,101.08888888888889,121693.0,86924.0,1738460.0,34769.0,772.6444444444444,199.6851106976768,0.020000082235275277,0.05000075899016721,0.07000084122544248,382.45220941992017,7.6432182897340075,1.0,715.1533333333333,829.0016666666667
+Parceiro C,Grupo 2,45,4522,100.4888888888889,117967.0,117967.0,1685235.0,0.0,0.0,0.0,0.0,0.06999892290806257,0.06999892290806257,372.2719603618012,0.0,0.0,0.0,0.0
