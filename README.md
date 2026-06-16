@@ -10,7 +10,7 @@ Responder à pergunta:
 
 A solução lê um CSV com o schema informado no teste, limpa os dados, calcula métricas por variante, estima a probabilidade de cada grupo ser o melhor usando bootstrap, gera relatório em Markdown e registra o resultado em um tracker CSV compatível com Google Sheets.
 
-## Tecnologias
+## Tecnologias utilizadas
 
 - Python
 - Pandas
