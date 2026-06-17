@@ -93,4 +93,4 @@ O arquivo `outputs/ab_tests_tracker.csv` pode ser importado no Google Sheets e c
 
 O tracker consolidado dos testes pode ser acessado no Google Sheets:
 
-[Growth A/B Tests Tracker — Méliuz Case](https://docs.google.com/spreadsheets/d/1nMBy1J87znCj800GTSogFSlN253JNbRmeTV4gdTXoy0/edit?usp=sharing))
+[Growth A/B Tests Tracker — Méliuz Case](https://docs.google.com/spreadsheets/d/1nMBy1J87znCj800GTSogFSlN253JNbRmeTV4gdTXoy0/edit?usp=sharing)
